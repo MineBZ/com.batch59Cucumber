@@ -1,0 +1,8 @@
+pages\AmazonPage.class
+stepdefinitions\Hooks.class
+runners\TestRunner.class
+stepdefinitions\AmazonStepDefinitions.class
+utilities\Driver.class
+pages\GuruPage.class
+stepdefinitions\GuruStepDefinitions.class
+utilities\ConfigReader.class

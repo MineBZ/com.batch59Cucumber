@@ -11,6 +11,7 @@ public class ConfigReader {
 
     static {
         String dosyaYolu="configuration.properties";
+
         try {
             FileInputStream fis=new FileInputStream(dosyaYolu);
             properties=new Properties();

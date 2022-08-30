@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="44.36">
+    <testcase classname="Selenium Grid" name="TC01 Running Chrome" time="22.047">
+        <system-out>
+            <![CDATA[* kullanici medunna sayfasina gider.........................................passed
+* sayfa tittle "MEDUNNA" oldugunu test eder.................................passed
+* remote driver kapatir.....................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Selenium Grid" name="TC02 Running Firefox" time="21.949">
+        <system-out>
+            <![CDATA[* kullanici firefox ile medunna sayfasina gider.............................passed
+* sayfa tittle "MEDUNNA" oldugunu test eder.................................passed
+* remote driver kapatir.....................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
